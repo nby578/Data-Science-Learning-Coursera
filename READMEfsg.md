@@ -1,2 +1,2 @@
 # Data-Science-Learning-Coursera
-John Hopkins SSS
+John Hopkins
